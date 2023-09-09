@@ -30,6 +30,7 @@
     <div class="container">
         <h1>MAPA CON COORDENADAS REGISTRADAS</h1>
         <div class="map-container" id="mapa"></div>
+        <br>
         <button class="btn btn-info btn-sm" id="btnActualizar" name="btnActualizar">ACTUALIZAR</button>
     </div>
     <script src="<?= asset('build/js/mapa/index.js') ?>"></script>
