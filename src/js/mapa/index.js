@@ -79,7 +79,7 @@ btnActualizar.addEventListener("click", () => {
         toast: true,
         position: 'top-end',
         showConfirmButton: false,
-        timer: 750
+        timer: 1000
     });
     buscar();
 });
